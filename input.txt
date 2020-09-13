@@ -1,0 +1,5 @@
+print("PSU On top!")
+require(1234)
+local bruh = "h"
+local b = 1
+print(1/3)
